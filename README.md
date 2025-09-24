@@ -4,7 +4,7 @@ Este programa implementa un algoritmo para eliminar producciones epsilon (ε) de
 
 ## Archivos incluidos
 
-- `grammar_simplifier.py`: Programa principal
+- `main.py`: Programa principal
 - `grammar1.txt`: Primera gramática de ejemplo
 - `grammar2.txt`: Segunda gramática de ejemplo
 - `grammar3.txt`: Tercera gramática de ejemplo
@@ -49,7 +49,7 @@ B -> b | ε
 ## Uso
 
 ```bash
-python grammar_simplifier.py
+python main.py
 ```
 
 El programa procesará automáticamente los tres archivos de gramática (`grammar1.txt`, `grammar2.txt` y `grammar3.txt`) y mostrará:

@@ -1,3 +1,0 @@
-S -> aA | bB
-A -> invalid format here
-B -> c | ε
