@@ -2,13 +2,16 @@
 
 Este programa implementa un algoritmo para eliminar producciones epsilon (ε) de gramáticas libres de contexto.
 
-## Archivos incluidos
+## Video Demostrativo
 
-- `main.py`: Programa principal
-- `grammar1.txt`: Primera gramática de ejemplo
-- `grammar2.txt`: Segunda gramática de ejemplo
-- `grammar3.txt`: Tercera gramática de ejemplo
-- `README.md`: Este archivo
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=UaxwvCaheGs">
+    <img src="https://img.youtube.com/vi/UaxwvCaheGs/0.jpg" alt="Video Demostrativo Lab 7 TC">
+  </a>
+</p>
+
+> [!IMPORTANT]
+> En la carpeta `problema-2/` se encuentra el documento PDF que contiene la resolución del problema 2.
 
 ## Gramáticas de ejemplo
 
